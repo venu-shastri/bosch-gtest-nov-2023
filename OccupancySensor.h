@@ -1,0 +1,5 @@
+
+class OccupancySensor{
+public:
+OccupancySensor();
+};
